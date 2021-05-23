@@ -13,6 +13,7 @@ namespace PeliculasWeb
 {
     public class Startup
     {
+        //agrego comentario en area experimental, por lo que pasa a ser diferente de area master
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

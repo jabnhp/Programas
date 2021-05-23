@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {}
+    "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {}
   },
   "projects": {
-    "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {
+    "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+        "projectUniqueName": "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
         "projectName": "ApiPeliculas",
-        "projectPath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+        "projectPath": "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
         "packagesPath": "C:\\Users\\jabnh\\.nuget\\packages\\",
-        "outputPath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\obj\\",
+        "outputPath": "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

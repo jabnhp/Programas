@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
+      "projectUniqueName": "C:\\WorkGit\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
       "projectName": "PeliculasWeb",
-      "projectPath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
+      "projectPath": "C:\\WorkGit\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
       "packagesPath": "C:\\Users\\jabnh\\.nuget\\packages\\",
-      "outputPath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\PeliculasWeb\\obj\\",
+      "outputPath": "C:\\WorkGit\\ApiPeliculas\\PeliculasWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

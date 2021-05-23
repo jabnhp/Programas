@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T11vKGWArPmZb8HC8jK0Ry9zV9FtKqFdTdw0QkBWVPazYs9ZOuhdmbbabI6HBgNmrcXY+FyAX0BPlw3wPPwgdQ==",
+  "dgSpecHash": "fVfQ3SGkd/f102cCsVDcNZLgyXYhBBRtRWtvjY4dviK0WtQtjAu5OoyZvVgDT8l/2U3YJed0KU6feO62OhSzEA==",
   "success": true,
-  "projectFilePath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+  "projectFilePath": "C:\\WorkGit\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabnh\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\jabnh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

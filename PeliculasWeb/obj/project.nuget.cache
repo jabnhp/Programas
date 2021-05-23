@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6SIllm7rJNQ+mu6rvjh4s1Ckq3m7s0/9ETqHivVk3O2uaTRGYMD3BQzkPH4MlxyryRSOGYzTiOuCJr4adnxvHQ==",
+  "dgSpecHash": "DGblbaMYgNmbF9hXwnrxTPT2tCklGibbn386lsVNztLS3MJrssVm7cThMGUKkyb2GH4ToEViIyBHLtTqriTOAg==",
   "success": true,
-  "projectFilePath": "C:\\Datos\\cursos udemy\\Api rest ful\\ApiPeliculas\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
+  "projectFilePath": "C:\\WorkGit\\ApiPeliculas\\PeliculasWeb\\PeliculasWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabnh\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
     "C:\\Users\\jabnh\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.4.nupkg.sha512",
